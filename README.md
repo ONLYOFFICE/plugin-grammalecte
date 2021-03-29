@@ -13,3 +13,7 @@ Grammalecte is is compatible with [self-hosted](https://github.com/ONLYOFFICE/Do
 3. Alternatively, you can insert text for correction manually. To do so, type new text in the field on left panel or edit already selected text (this will only affect the translation, the original text will remain unchanged). Click Check.
 4. Choose the corrections to be applied to your text. They will appear in the text in the field on the left panel. 
 5. To replace the selected text in your document with the corrected text from the field, click Replace.
+
+## How to install
+
+Detailed instructions can be found in [ONLYOFFICE API documentation](https://api.onlyoffice.com/plugin/installation).
